@@ -1,0 +1,6 @@
+bench_press.csv
+data/private/*
+
+__pycache__/
+*.pyc
+.DS_Store
