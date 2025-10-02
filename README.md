@@ -14,3 +14,8 @@
 ```bash
 pip install -r requirements.txt
 python train.py
+
+## 結果例
+線形回帰モデル（MAE ≈ 2.0kg, RMSE ≈ 2.5kg）の予測と実測の比較例です。
+
+[Linear Regression: Prediction vs Actual](LinearRegression_scatter.png)
